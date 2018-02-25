@@ -1,0 +1,180 @@
+﻿@charset "utf-8";
+.content_pro { width:930px; background:url(../images/content_foot.gif)/*tpa=http://www.300.cn/images/content_foot.gif*/ no-repeat bottom; margin:auto; height:100%; }
+.content_web { width:930px; height:auto; background:#FFFFFF; margin-bottom:3px; }
+.medill_p_plate { width:930px; margin:auto; }
+.m_l_plate { float:left; width:149px; height:400px; background:url(../images/sidebar_bg.gif)/*tpa=http://www.300.cn/images/sidebar_bg.gif*/ no-repeat left; clear:both; }
+.m_l_plate ul { margin:30px 0px 0px 13px; padding:0px; list-style-type:none; }
+.m_l_plate li { margin:0px; padding:0px; text-align:right; }
+.m_l_plate li a { color:#2c5c8c; text-decoration:none; font-size:12px; height:27px; display:block; line-height:27px; padding-right:15px; }
+.m_l_plate li a:hover { color:#2c5c8c; text-decoration:none; font-size:12px; display:block; background:url(../images/sidebar_bg02.gif)/*tpa=http://www.300.cn/images/sidebar_bg02.gif*/ no-repeat; height:27px; line-height:27px; font-size:12px; padding-right:15px; }
+.m_box_plate { float:left; width:534px; height:auto; padding:0px 0px 0px 18px; }
+.pro_content { width:auto; height:auto; }
+.pro_title_list { width:557px; height:24px; color:#05355d; font-size:14px; font-weight:bold; line-height:24px; border-bottom:#dce2eb 1px solid; }
+.pro_title_lists { width:557px; height:24px; color:#05355d; font-size:14px; font-weight:bold; line-height:24px; border-top:#dce2eb 1px solid; }
+.pro_cppop { width:auto; height:auto; margin:0px 0px 20px 0px; font-family:Arial; line-height:20px; }
+.pro_cp { width:auto; height:auto; margin:0px 0px 20px 0px; font-family:Arial; line-height:20px; }
+.pro_cp ul { margin:0px 0px 0px 0px; padding:0px; font-size:12px; list-style-type:none; overflow:hidden; }
+.pro_cp li { margin:0px; padding:0px; color:#414141; }
+.pro_cps { width:557px; height:auto; margin:0px 0px 20px 0px }
+.litext { font-size:13px; font-weight:bold; }
+.litext2 { font-size:12px; }
+.litext22 { font-size:12px; height:20px; }
+.litext2_s { font-size:12px; width:150px; line-height:18px; border-top:#dce2eb 1px solid; height:85px; }
+.litext2_s_2 { font-size:12px; width:157px; line-height:18px; border-top:#dce2eb 1px solid; height:85px; }
+.r_text_r { color:#006b2a; font-weight:bold; font-size:14px; }
+.top_hot { width:auto; min-height:90px; }
+.top_hot ul { margin:0px; padding:0px; list-style-type:noen; float:left; }
+.top_hot li { margin:0px; padding:0px; }
+.hot_t a { color:#1c519f; text-decoration:none; font-size:13px; font-weight:bold; }
+.hot_t a:hover { color:#1c519f; text-decoration:underline; font-size:13px; font-weight:bold; }
+.h_list a { color:#a9c4f3; font-size:12px; font-family:Arial; text-decoration:none; }
+.h_list a:hover { color:#a9c4f3; font-size:12px; font-family:Arial; text-decoration:underline; }
+.h_s_list a { color:#505050; font-size:12px; text-decoration:none; }
+.h_s_list a:hover { color:#505050; font-size:12px; text-decoration:underline; }
+.list_hot_news { width:100%; height:60px; }
+.list_hot_news ul { margin:0px; padding:0px; list-style-type:none; }
+.list_hot_news li { margin:0px; padding:0px 0px 0px 5px; font-size:12px; }
+.h3_l_t { margin:0px; padding:20px 0px 5px 0px; font:bold 16px "微软雅黑"; color:#0e4067; }
+.footnav { width:930px; height:auto; margin:auto; color:#fff; font-family:Arial; border-bottom:#4e7fbf 1px solid; }
+.footnav ul { margin:15px 0px 0px 0px; padding:0px; float:left; list-style-type:none; }
+.footnav li { margin:0px; padding:0px; line-height:20px; }
+.listyle { background:url(images/l_ico.gif)/*tpa=http://www.300.cn/css/images/l_ico.gif*/ no-repeat; padding-left:5px; }
+.sosu { width:160px; height:24px; float:left; margin-top:8px; }
+.input1 { background:url(../images/input.gif)/*tpa=http://www.300.cn/images/input.gif*/ 100% 0% no-repeat; width:120px; height:32px; float:left; border:none; line-height:24px; padding-left:7px; overflow:hidden; }
+.input2 { background:url(../images/so.gif)/*tpa=http://www.300.cn/images/so.gif*/ no-repeat; width:24px; height:32px; float:left; border:none; }
+/* 产品样式--曾智玮 */
+
+/* google域名 */
+
+.dom_inqu { font-size:12px; margin:0 0 40px -20px; }
+.dom_inqu ul { list-style:none; }
+.dom_inqu ul li { line-height:23px;padding-left:20px; width:508px; height:23px; text-align:left;border-bottom:1px #b2c8df dotted  }
+.dom_inqu li img { margin:4px 10px 0 0; line-height:20px; vertical-align:middle; float:left; }
+.dom_inqu li span { color:#247d05; float:left;}
+.dom_inqu li span.dom_inqu1 { color:#414141; display:inherit; width:150px; float:left; }
+.dom_inqu li span.dom_inqu2 { color:#ff0000; float:left; margin:0; }
+.dom_inqu li span.dom_inqu3 { color:#ff0000;width:180px;}
+.dom_inqu li span.dom_inqu4 { color:#7089a7;}
+.inquname_top { margin:10px 0 0 10px; float:left; }
+.inquname_top ul { float:left; }
+.inquname_top ul li { float:left; }
+.inquname_top img { float:left; }
+.inquname_top li span.inquname_top2 { background:url(../images/domain05.gif)/*tpa=http://www.300.cn/images/domain05.gif*/ no-repeat left bottom; display:block; margin:3px 0 0 3px; float:left; }
+.inquname_top li span.inquname_top2 a { float:left; color:#fff; font-size:12px; background:url(../images/domain06.gif)/*tpa=http://www.300.cn/images/domain06.gif*/ no-repeat right bottom; font-weight:bold; padding:0 20px; display:block; height:26px; line-height:26px; text-decoration:none; }
+.inquname_top li span.inquname_top2 a:hover, .inquname_top li span.inquname_top2 a.on { color:#fff; font-size:12px; font-weight:bold; background:url(../images/domain06.gif)/*tpa=http://www.300.cn/images/domain06.gif*/ no-repeat right bottom; padding:0 20px; display:block; height:26px; line-height:26px; text-decoration:none; float:left; }
+.inquname_top li span.inquname_top1 { float:left; background:url(../images/domain07.gif)/*tpa=http://www.300.cn/images/domain07.gif*/ no-repeat left bottom; padding:3px 0 0 0; }
+.inquname_top li span.inquname_top1 a { float:left; background:url(../images/domain07.gif)/*tpa=http://www.300.cn/images/domain07.gif*/ no-repeat left bottom; line-height:26px; padding:0 15px 0 18px; color:#507229; font-size:14px; font-weight:bold; }
+.inquname_top li span.inquname_top1 a:hover, .inquname_top li span.inquname_top1 a.on { background:url(../images/domain07.gif)/*tpa=http://www.300.cn/images/domain07.gif*/ no-repeat left bottom; color:#507229; font-size:14px; font-weight:bold; display:block; line-height:26px; float:left; padding:0 15px 0 18px; }
+.dom_inquname { float:left; line-height:30px; margin-bottom:50px; }
+.dom_srch { float:left; font-size:14px; font-weight:bold; margin:10px 0 10px 30px; line-height:22px; text-align:left; }
+.dom_srch span { float:left; }
+#dom_srch2 { float:left; width:280px; height:20px; border:1px solid #8199b9; margin:0 10px; }
+.dom_srch a { color:#2d4f7d; background:url(../images/domain09.gif)/*tpa=http://www.300.cn/images/domain09.gif*/ no-repeat left center; vertical-align:middle; line-height:25px; float:left; display:block; width:57px; height:25px; text-decoration:none; padding:0 0 0 18px; }
+#dom_form { clear:left; line-height:22px; vertical-align:middle; margin:0 0 0 75px; _margin:0 0 0 102px; }
+#dom_form2 { display:block; float:left; line-height:22px; width:75px; }
+#dom_form1 { margin:0; padding:0; }
+.inquname_bom { float:left; width:400px; margin:40px 0 0 100px; _margin:40px 0 0 50px; padding-bottom:50px; }
+.inquname_bom img { vertical-align:middle; }
+.inquname_bom a { font-size:14px; font-weight:bold; color:#2d4f7d; text-decoration:underline; font-family:宋体; }
+/* 通用网址 */
+
+.geneimg { padding:49px 0 20px 75px; }
+#gene { width:224px; height:20px; line-height:20px; border:1px solid #7f9db9; }
+/* 易出口 */
+
+.port_ul { float:left; width:330px; border-right:1px solid #c5cedb; padding-top:5px; margin-top:10px; }
+.port_ul ul { float:left; margin:18px 0; }
+.port_ul li { float:left; list-style:none; margin-bottom:18px; width:320px; padding-right:10px; }
+.port_ul li h3 { background:url(../images/port02.gif)/*tpa=http://www.300.cn/images/port02.gif*/ no-repeat left center; padding-left:12px; color:#2d4f7d; line-height:16px; font-size:14px; }
+.port_ul li span { padding-left:12px; font-size:12px; color:#333; }
+.port_ur { float:right; width:180px; padding-top:5px; margin-top:10px; }
+.port_ur ul { float:left; margin:18px 0; }
+.port_ur li { float:left; list-style:none; margin-bottom:18px; width:180px; font:normal 12px "宋体"; color:#333; }
+/* 通用网址 */
+
+.gene_ul { float:left; width:270px; border-right:1px solid #c5cedb; padding-top:5px; margin-top:10px; }
+.gene_ul ul { float:left; margin:18px 0; padding-bottom:60px; }
+.gene_ul li { float:left; list-style:none; margin-bottom:18px; width:250px; padding-left:12px; font-size:12px; color:#333; background:url(../images/port02.gif)/*tpa=http://www.300.cn/images/port02.gif*/ no-repeat left 7px; }
+.gene_ur { float:right; width:250px; padding-top:5px; margin-top:10px; }
+.gene_ur ul { float:left; margin:18px 0; }
+.gene_ur li { float:left; list-style:none; margin-bottom:18px; padding-left:12px; font-size:12px; color:#333; background:url(../images/port02.gif)/*tpa=http://www.300.cn/images/port02.gif*/ no-repeat left 7px; }
+/* 站点卫士 */
+
+.guar_ur { float:left; width:520px; margin-top:-15px; }
+.guar_ur ul { float:left; margin:0 0 18px 0; }
+.guar_ur li { float:left; list-style:none; margin-bottom:18px; width:520px; }
+.guar_ur li h3 { background:url(../images/port02.gif)/*tpa=http://www.300.cn/images/port02.gif*/ no-repeat left center; padding-left:12px; color:#2d4f7d; line-height:16px; font-size:14px; }
+.guar_ur li span { padding-left:12px; font-size:12px; color:#333; padding-left:12px; float:left; line-height:20px; }
+.add2010title { width:515px; height:40px; background:url(../images/a10_navtoolbg3.gif)/*tpa=http://www.300.cn/images/a10_navtoolbg3.gif*/ no-repeat; }
+.add2010title ul { margin:0px; padding:0px; list-style-type:none; }
+.add2010title li { margin:0px; padding:0px; float:left; }
+.add2010title1 a, .add2010title1 a:visited { margin:5px 0px 0px 0px; padding:0px; width:124px; height:26px; display:block; background:url(../images/a10_navtoolbg.gif)/*tpa=http://www.300.cn/images/a10_navtoolbg.gif*/ no-repeat; font-family:Arial; font-weight:bold; color:#fff; font-size:12px; line-height:26px; text-decoration:none; text-align:center; }
+.add2010title1 a:hover, .add2010title1 a.on { margin:1px 8px 0px 0px; padding:0px; width:124px; height:33px; display:block; background:url(../images/a10_navtoolbg2s.gif)/*tpa=http://www.300.cn/images/a10_navtoolbg2s.gif*/ no-repeat top; font-family:Arial; font-weight:bold; color:#006b2a; font-size:14px; line-height:33px; text-decoration:none; text-align:center; }
+.add2010title2 a { margin:5px 0px 0px 0px; padding:0px; width:124px; height:26px; display:block; background:url(../images/a10_navtoolbg.gif)/*tpa=http://www.300.cn/images/a10_navtoolbg.gif*/ no-repeat; font-family:Arial; font-weight:bold; color:#fff; font-size:14px; line-height:26px; text-decoration:none; text-align:center; }
+.add2010title2 a:hover, .add2010title2 a.on { margin:1px 8px 0px 0px; padding:0px; width:124px; height:33px; display:block; background:url(../images/a10_navtoolbg2.gif)/*tpa=http://www.300.cn/images/a10_navtoolbg2.gif*/ no-repeat top; font-family:Arial; font-weight:bold; color:#006b2a; font-size:14px; line-height:33px; text-decoration:none; text-align:center; }
+/* sogo竞价 */
+
+.sogo_ul { float:left; width:228px; border-right:1px solid #c5cedb; padding-top:5px; margin-top:10px; }
+.sogo_ul ul { float:left; margin:18px 0; }
+.sogo_ul li { float:left; list-style:none; margin-bottom:18px; width:204px; font-size:12px; color:#333; line-height:18px; }
+.sogo_ur { float:right; width:285px; padding-top:5px; margin-top:10px; }
+.sogo_ur ul { float:left; margin:18px 0; }
+.sogo_ur li { float:left; list-style:none; margin-bottom:18px; width:285px; color:#333; }
+.infortool { width:548px; height:49px; background:url(../images/infortoolbg.gif)/*tpa=http://www.300.cn/images/infortoolbg.gif*/ no-repeat }
+.infortool ul { margin:0px; padding:0px; list-style-type:none; }
+.infortool li { margin:0px 0px 0px 3px; padding:0px; float:left; }
+.infortool li a { text-decoration:none; color:#000000; font-size:12px; font-family:Arial; background:url(../images/infor_tool2.gif)/*tpa=http://www.300.cn/images/infor_tool2.gif*/ no-repeat; width:73px; height:28px; text-align:center; line-height:28px; display:block; margin-top:4px; }
+.infortool li a:hover, .infortool li a.on { text-decoration:none; font-size:12px; font-family:Arial; background:url(../images/infor_tool.gif)/*tpa=http://www.300.cn/images/infor_tool.gif*/ no-repeat; width:96px; height:30px; text-align:center; line-height:30px; font-weight:bold; color:#507229; display:block; margin-top:3px; }
+.inforconbox { font-size:12px; line-height:20px; }
+.textinfor { width:528px; height:auto; background:url(../images/textbg.gif)/*tpa=http://www.300.cn/images/textbg.gif*/ no-repeat; }
+.textinfor ul { margin:0px; padding:0px; list-style-type:none; }
+.textinfor li { margin:0px; padding:0px; float:left; font-size:12px; line-height:15px; font-family:Arial; }
+.popp { background:url(../images/zwebm.gif)/*tpa=http://www.300.cn/images/zwebm.gif*/ no-repeat; width:539px; height:418px; }
+.popp2 { background:url(../images/zmailm.gif)/*tpa=http://www.300.cn/images/zmailm.gif*/ no-repeat; width:539px; height:418px; }
+.menu li a.normal { height:37px; color:#fff; }
+.menu li a.over { background:none; color:#fff; }
+.menu li a.cur3 { background:url(../images/as3.gif)/*tpa=http://www.300.cn/images/as3.gif*/ center no-repeat; color:#fff; }
+/* z+企业网站云平台  */
+
+.zfun_info { float:left; width:529px; margin:10px 0 0 2px; }
+.zfun_info img { float:left; }
+.zfun_infobg { float:left; width:529px; background:url(../images/zfun04.jpg)/*tpa=http://www.300.cn/images/zfun04.jpg*/ repeat-y; }
+.zfun_infohand { float:left; }
+.zfun_infohand ul { float:left; margin:15px 0 10px 0; padding-left:25px; height:auto; }
+.zfun_infohand li { float:left; list-style:none; font-size:12px; padding:5px 0; border-left:1px solid #d3dfed; height:146px; }
+.zfun_infohand li.zfun_infohand01 { width:125px; border:none; }
+.zfun_infohand li form { clear:left; line-height:20px; }
+.zfun_infohand li label { float:left; }
+.zfun_infohand li input { vertical-align:middle; line-height:16px; }
+.zfun_infohand li.zfun_infohand02 { width:100px; padding-left:10px; margin-left:10px; }
+.zfun_infocen { float:left; margin:0 0 0 25px; }
+.zfun_infofoot { float:left; width:491px; margin:10px 0 0 0; padding-bottom:40px; padding-left:18px; }
+.zfun_infofootcen { width:489px; float:left; border-left:1px solid #f9cda0; border-right:1px solid #f9cda0; }
+.zfun_infofootcen ul { float:left; margin:5px 0 5px 0; padding-left:16px; }
+.zfun_infofootcen li { float:left; list-style:none; font-size:12px; padding:5px 0; border-left:1px solid #e4d3c3; height:105px; }
+.zfun_infofootcen li.zfun_infofootcen01 { width:115px; border:none; }
+.zfun_infofootcen li img { margin-bottom:5px; }
+.zfun_infofootcen li form { clear:left; line-height:20px; }
+.zfun_infofootcen li label { float:left; }
+.zfun_infofootcen li input { vertical-align:middle; line-height:16px; }
+.zfun_infofootcen li.zfun_infofootcen02 { width:100px; padding-left:16px; margin-left:16px; }
+.zfun_infofumimg { float:left; margin:40px 0 0 0; padding-left:40px; }
+.mask { position:absolute; width:100%; height:100%; left:0px; top:0px; z-index:50; opacity:0.70; filter:alpha(opacity=70); background-color:#fff; }
+*html .mask { background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://images.cms.yidaba.com/www/images/alpha.png", sizingMethod="scale");
+}
+.fun_mbcen { position:absolute; z-index:60; left:435px; top:220px; width:478px; background:#fff; padding:12px 15px 12px 15px; }
+.fun_mbcen h3 { float:left; font-size:14px; font-weight:bold; }
+.fun_mbcen span { float:right; clear:right; margin:5px 0 0 0; }
+.fun_mbcen p { clear:left; float:left; font-size:12px; width:315px; line-height:18px; margin:5px 0 0 0; }
+.fun_mbcen a { float:left; clear:left; color:#4088fe; font-size:12px; text-decoration:none; padding-top:20px; }
+/* z+邮局功能 */
+
+/* 域名 */
+.new_tow { margin-top:-5px; font:bold 16px "微软雅黑"; color:#516d32; }
+.syutit { font:bold 18px "微软雅黑"; color:#2b4e8e; margin-top:20px; }
+.gensaleul { margin:0 auto; clear:both; margin-bottom:10px; padding-top:20px; }
+.gensaleul li { float:left; width:24%; list-style:none; color:#333; }
+.gensaleul li strong { display:block; }
+.gensaleul li em { float:left; color:#333; }
+.gensaleul li div { float:left; font-size:16px; font-weight:bold; color:#c52500; }
+.gensaleul li div span { font:normal 12px "宋体"; }

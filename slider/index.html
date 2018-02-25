@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="JS代码,焦点图,JS广告代码,JS特效代码" />
+<meta name="description" content="此代码内容为jQuery五屏上下滚动焦点图代码，属于站长常用代码，更多焦点图代码请访问懒人图库JS代码频道。" />
+<title>js五屏上下滚动焦点图</title>
+
+<link rel=stylesheet type=text/css href="css/lrtk.css">
+
+<script type=text/javascript src="js/lrtk.js"></script>
+
+
+<style>
+#wjl_slider{
+	width:330px; margin:0 auto;	
+	
+	padding:20px;
+}
+
+
+</style>
+</head>
+<body>
+
+<div id=wjl_slider>
+
+<!-- 代码 开始 -->      
+<div id=idTransformView>
+
+<ul id=idSlider class=slider>
+  <div style="POSITION: relative">
+      <ul class=txtbg></ul>
+      <span>风景图001</span>
+      <a href="http://mio.web1337.net/" target="_blank"><img alt="风景图001" src="images/01.jpg" width=320 height=240></a>
+  </div>
+  <div style="POSITION: relative">
+      <ul class=txtbg></ul>
+      <span>风景图002</span>
+      <a href="http://mio.web1337.net/" target="_blank"><img alt="风景图002" src="images/02.jpg" width=320 height=240></a>
+  </div>
+  
+  <div style="POSITION: relative">
+    <ul class=txtbg></ul>
+    <span>风景图003</span>
+    <a href="http://mio.web1337.net/" target="_blank"><img alt="风景图003" src="images/03.jpg" width=320 height=240></a>
+  </div>
+  <div style="POSITION: relative">
+      <ul class=txtbg></ul>
+      <span>风景图004</span>
+      <a href="http://mio.web1337.net/" target="_blank"><img alt="风景图004" src="images/04.jpg" width=320 height=240></a>
+  </div>
+  <div style="POSITION: relative">
+      <ul class=txtbg></ul>
+      <span>风景图005</span>
+      <a href="http://mio.web1337.net/" target="_blank"><img alt="风景图005" src="images/05.jpg" width=320 height=240></a>
+  </div>
+</ul>
+</div>
+
+
+<div>
+<ul id='idNum' class='hdnum'><!-- 缩略图部分  -->
+  <li><img src="images/01.jpg" width=61px height=45px></li>
+  <li><img src="images/02.jpg" width=61px height=45px></li>
+  <li><img src="images/03.jpg" width=61px height=45px></li>
+  <li><img src="images/04.jpg" width=61px height=45px></li>
+  <li><img src="images/05.jpg" width=61px height=45px></li>
+</ul>
+
+<script>
+window.onload=function(){
+  mytv("idNum", "idTransformView", "idSlider", //按钮容器aa，滚动容器bb，      滚动内容cc，
+		240, 5, true,                          //滚动宽度dd，滚动数量ee，滚动方向ff，   
+		3000, 50, true, "onmouseover"); //延时gg，滚动速度hh，自动滚动ii，响应事件（原始值2000,5）
+}
+</script>
+</div>
+<!-- 代码 结束 -->
+
+
+  </div>
+  
+  
+  
+
+
+</body>
+</html>

@@ -1,0 +1,51 @@
+﻿@charset "utf-8";
+.menu li a.normal { height:37px; color:#fff; }
+.menu li a.over { background:none; color:#fff; }
+.menu li a.cur4 { background:url(../images/as3.gif)/*tpa=http://www.300.cn/images/as3.gif*/ center no-repeat; color:#fff; }
+.content_pro { width:930px; background:url(../images/content_foot.gif)/*tpa=http://www.300.cn/images/content_foot.gif*/ no-repeat bottom; margin:auto; }
+.content_web { width:930px; height:auto; background:#FFFFFF; margin-bottom:3px; }
+.medill_p_plate { width:930px; margin:auto; }
+.m_l_plate { float:left; width:149px; height:400px; background:url(../images/sidebar_bg.gif)/*tpa=http://www.300.cn/images/sidebar_bg.gif*/ no-repeat left; clear:both; }
+.m_l_plate ul { margin:30px 0px 0px 13px; padding:0px; list-style-type:none; }
+.m_l_plate li { margin:0px; padding:0px; text-align:right; }
+.m_l_plate li a { color:#2c5c8c; text-decoration:none; font-size:12px; height:27px; display:block; line-height:27px; padding-right:15px; }
+.m_l_plate li a:hover { color:#2c5c8c; text-decoration:none; font-size:12px; display:block; background:url(../images/sidebar_bg02.gif)/*tpa=http://www.300.cn/images/sidebar_bg02.gif*/ no-repeat; height:27px; line-height:27px; font-size:12px; padding-right:15px; }
+.m_box_plate { float:left; width:534px; height:auto; padding:0px 0px 0px 10px; }
+.pro_content { width:560px; height:auto; margin:10px 0px 10px 0px; clear:both; overflow:hidden; }
+.pro_title_list { width:557px; height:24px; color:#05355d; font-size:14px; font-weight:bold; line-height:24px; border-bottom:#dce2eb 1px solid; }
+.pro_title_lists { width:557px; height:24px; color:#05355d; font-size:14px; font-weight:bold; line-height:24px; border-top:#dce2eb 1px solid; clear:both; }
+.r_text_r { color:#006b2a; font-weight:bold; font-size:14px; }
+.h3_l_t { margin:0px; padding:0px; font-size:14px; font-weight:bold; color:#0e4067; }
+.search_buttom a { font-size:14px; font-weight:bold; text-align:center; line-height:27px; color:#0e4067; background:url(../images/botton_icon.gif)/*tpa=http://www.300.cn/images/botton_icon.gif*/ no-repeat left top; display:block; width:92px; height:27px; text-decoration:none; }
+.search_buttom a:hover { font-size:14px; font-weight:bold; text-align:center; line-height:27px; color:#0e4067; background:url(../images/botton_icon.gif)/*tpa=http://www.300.cn/images/botton_icon.gif*/ -0px 30px; display:block; width:92px; height:27px; text-decoration:none; }
+.morebox { width:auto; height:20px; text-align:right; }
+.trainplate { width:auto; height:auto; }
+.h3_s_title { margin:0px; padding:0px; font-size:12px; font-weight:bold; color:#439411; width:auto; }
+.b_title { font-size:14px; font-weight:bold; color:#0e4067; font-family:Arial; }
+.s_title { font-size:12px; font-weight:normal; color:#3d6188; font-family:Arial; }
+.taste { width:atuo; height:auto; }
+.taste ul { margin:0px 0px 0px 0px; padding:0px; list-style-type:none; line-height:20px; }
+.taste li { margin:0px; padding:0px; width:550px; }
+.jcarousel-next { BACKGROUND: url(../images/icon_r.gif)/*tpa=http://www.300.cn/images/icon_r.gif*/ no-repeat right center; OVERFLOW: hidden; WIDTH: 20px; left:503px; top:60px; TEXT-INDENT: -999em; POSITION: absolute; HEIGHT: 20px; outline: none; padding-top:25px; }
+.jcarousel-next-disabled { BACKGROUND: url(../images/icon_r_.gif)/*tpa=http://www.300.cn/images/icon_r_.gif*/ no-repeat right center; CURSOR: default; COLOR: #accc68; padding-top:25px; }
+.jcarousel-prev { FONT-WEIGHT: bold; BACKGROUND: url(../images/icon_l.gif)/*tpa=http://www.300.cn/images/icon_l.gif*/ no-repeat left center; WIDTH: 20px; left:-20px; top:60px; CURSOR: pointer; TEXT-INDENT: -999em; POSITION: absolute; HEIGHT: 20px; outline: none; padding-top:25px; }
+.jcarousel-prev-disabled { BACKGROUND: url(../images/icon_l_.gif)/*tpa=http://www.300.cn/images/icon_l_.gif*/ no-repeat left center; CURSOR: default; COLOR: #accc68; padding-top:25px; }
+.list_three_c1 { float:left; width:195px; height:auto; background:url(../images/exp_pic01.gif)/*tpa=http://www.300.cn/images/exp_pic01.gif*/ no-repeat; }
+.list_three_c1 ul { margin:0px; padding:0px; list-style-type:none; width:170px; }
+.list_three_c1 li { margin:0px; padding:0px; width:170px; }
+.list_three_c2 { float:left; width:180px; height:auto; background:url(../images/exp_pic02.gif)/*tpa=http://www.300.cn/images/exp_pic02.gif*/ no-repeat; }
+.list_three_c2 ul { margin:0px; padding:0px; list-style-type:none; width:170px; }
+.list_three_c2 li { margin:0px; padding:0px; width:170px; }
+.list_three_c3 { float:right; width:160px; height:auto; background:url(../images/exp_pic03.gif)/*tpa=http://www.300.cn/images/exp_pic03.gif*/ no-repeat; }
+.list_three_c3 ul { margin:0px; padding:0px; list-style-type:none; width:160px; }
+.list_three_c3 li { margin:0px; padding:0px; width:160px; }
+
+.intnotop3 { width:543px; float:left; text-align:left; padding-left:8px; }
+.intnotop3 h3 { font-size:16px; font-weight:bold; color:#153e7d; line-height:24px; }
+.intnotop3 ul { float:left; width:543px; }
+.intnotop3 li { list-style:none; float:left; border-bottom:1px dashed #ccc; padding-top:10px; }
+.intnotop3 li dl { float:left; width:256px; display:block; padding-bottom:15px; }
+.intnotop3 li dt { font-size:14px; font-weight:bold; }
+.intnotop3 li dd a { text-decoration:none; font-size:12px; color:#333332; }
+.intnotop3 li img{width:258px; height:95px; border:none;}
+#intnotop3 { margin-left:20px; }
